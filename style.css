@@ -164,8 +164,9 @@ td.default {
 .txt-top {
     color: #696969;
     position: relative;
-    top: -9px;
+    top: -5px;
     left: -2px;
+    font-size: 13px;
 }
 
 .tick {
